@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-color: #ecedf0;
+}
+.container{
+    width: 300px;
+    position: absolute;
+    top: 250px;
+    left: 200px;
+    bottom: 500px;
+}
+.containera{
+    background-color: white;
+    height: 340px;
+    width: 390px;
+    margin: 150px 150px 150px 770px;
+    position: absolute;
+    box-shadow: 5px 5px 5px 5px rgb(202, 195, 195);
+}
+#mail{
+    display: block;
+    margin: 10px;
+    height: 40px;
+    width: 350px;
+    padding: 4px;
+    border-radius: 10px;
+    border-color: rgb(220, 195, 195);
+}
+#pass{
+    display: block;
+    margin: 10px;
+    height: 40px;
+    width: 350px;
+    padding: 4px;
+    border-radius: 10px;
+    border-color: rgb(220, 195, 195);
+}
+#new{
+    display: block;
+    margin: 10px;
+    height: 45px;
+    width: 170px;
+    margin-top: 30px;
+    margin-left: 110px;
+    background-color: rgb(36, 208, 36);
+    color: white;
+    font-weight: bolder;
+    border: none;
+    padding: 4px;
+    border-radius: 10px;
+}
+#fro{
+    display: block;
+    margin: 10px;
+    height: 40px;
+    width: 320px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: blueviolet;
+}
+#log{
+    display: block;
+    margin: 10px;
+    height: 45px;
+    width: 360px;
+    background-color: rgb(24, 119, 242);
+    font-weight: bolder;
+    color: white;
+    border: none;
+    padding: 4px;
+    border-radius: 10px;
+}
+#new>a{
+    color: white;
+    text-decoration: none;
+}
+hr{
+    width: 360px;
+    margin-left: 10px;
+}
+
+p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+   word-spacing: 5px;
+   
+   font-weight: lighter;
+}
+h1{
+    
+    font-weight: bolder;
+    color: rgb(24, 119, 242);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+}
+div>p>a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: small;
+}
+.endline{
+    position: absolute;
+    top: 520px;
+    left: 805px;
+
+}
+div>p{
+    font-size: small;
+}
